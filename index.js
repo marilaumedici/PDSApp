@@ -16,7 +16,7 @@ export const pepita = {
 }
 
 pepita.comer(3)
-console.log(`La energia de pepita es :  ${ pepita.energia }  despues de comer`)
+console.log(`La energia de pepita is :  ${ pepita.energia }  despues de comer`)
 
 pepita.volar(2)
 console.log(`La energia de pepita es : ${ pepita.energia } despues de volar`)
