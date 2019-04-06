@@ -1,0 +1,3 @@
+C:\Users\Usuario\Documents\PDS\workspace\PDSApp\PDSApp\obj\Debug\PDSApp.njsprojAssemblyReference.cache
+C:\Users\Usuario\Documents\PDS\workspace\PDSApp\PDSApp\obj\Debug\PDSApp.njsproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PDS\workspace\PDSApp\PDSApp\bin\Microsoft.NodejsTools.WebRole.dll
